@@ -1,0 +1,5 @@
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache

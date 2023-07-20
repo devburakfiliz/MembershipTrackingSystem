@@ -9,14 +9,14 @@ namespace Entities.Concrete
 {
     public class Member : IEntity
     {
-        public int Id { get; set; }
-        public string Name { get; set; }  
-        public string Surename { get; set; }
+        public int MemberId { get; set; }
+        public string FirstName { get; set; }  
+        public string LastName { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public string? Phone { get; set; }
         public string? Adress { get; set; }
-        public int MemberShipFee { get; set; }
+        public int MonthlyPaymentId { get; set; }
         public string? Description { get; set; }
     }
 }

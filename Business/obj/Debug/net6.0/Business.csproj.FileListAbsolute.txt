@@ -1,0 +1,12 @@
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\bin\Debug\net6.0\Business.dll
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\Business.dll
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\ref\Business.dll
