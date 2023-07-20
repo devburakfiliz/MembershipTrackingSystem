@@ -13,5 +13,6 @@ namespace DataAccess.Abstract
     public interface IMemberDal : IEntityRepository<Member>
     {
         List<MemberRegistration> GetMemberDetails(Expression<Func<MemberRegistration, bool>> filter = null);
+        MemberRegistration GetByMemberId(Expression<Func<MemberRegistration, bool>> filter = null);
     }
 }

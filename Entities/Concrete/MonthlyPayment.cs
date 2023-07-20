@@ -12,7 +12,7 @@ namespace Entities.Concrete
         public int Id { get; set; }
         public int UserId { get; set; }
         public int MemberId { get; set; }
-        public bool Payment { get; set;}
+        public Double Payment { get; set;}
         public string PaymentType { get; set; }
         public DateTime PaymentDate { get; set; }
     }

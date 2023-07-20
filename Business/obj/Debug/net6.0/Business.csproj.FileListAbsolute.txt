@@ -10,3 +10,10 @@ C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\n
 C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\refint\Business.dll
 C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\bin\Debug\net6.0\Core.dll
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\devbu\OneDrive\Masaüstü\MembershipTrackingSystem\Business\obj\Debug\net6.0\Business.csproj.CopyComplete

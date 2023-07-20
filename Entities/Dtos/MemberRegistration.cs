@@ -20,7 +20,7 @@ namespace Entities.Dtos
         public string? Description { get; set; }
 
 
-        public bool Payment { get; set; }
+        public Double Payment { get; set; }
         public string PaymentType { get; set; }
         public DateTime PaymentDate { get; set; }
     }

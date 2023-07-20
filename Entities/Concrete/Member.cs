@@ -18,5 +18,7 @@ namespace Entities.Concrete
         public string? Adress { get; set; }
         public int MonthlyPaymentId { get; set; }
         public string? Description { get; set; }
+        public Double Payment { get; set; }
+        public string PaymentType { get; set; }
     }
 }
