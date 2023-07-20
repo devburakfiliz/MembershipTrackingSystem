@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\devbu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devbu\\AppData\\Roaming\\NuGet\\NuGet.Config",

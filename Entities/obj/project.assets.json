@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\devbu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devbu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MvcApiConsumeMultiLanguage\\Core\\Core.csproj": {}
+    "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MvcApiConsumeMultiLanguage\\Core\\Core.csproj": {
+    "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MvcApiConsumeMultiLanguage\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MvcApiConsumeMultiLanguage\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\devbu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MvcApiConsumeMultiLanguage\\Core\\obj\\",
+        "outputPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,52 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Autofac": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            },
-            "Autofac.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Autofac.Extras.DynamicProxy": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "FluentValidation": {
-              "target": "Package",
-              "version": "[11.1.0, )"
-            },
-            "Microsoft.AspNetCore.Http": {
-              "target": "Package",
-              "version": "[2.2.2, )"
-            },
-            "Microsoft.AspNetCore.Http.Abstractions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.Extensions.Configuration.Binder": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.IdentityModel.Tokens": {
-              "target": "Package",
-              "version": "[6.22.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[6.22.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\devbu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\MembershipTrackingSystem\\Business\\obj\\",
+      "outputPath": "C:\\Users\\devbu\\OneDrive\\Masaüstü\\MembershipTrackingSystem\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
