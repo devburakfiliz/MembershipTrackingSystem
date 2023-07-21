@@ -87,7 +87,9 @@ namespace Business.Concrete
             {
                 Payment = entity.Payment,
                 PaymentType = entity.PaymentType,
-                PaymentDate = DateTime.Now
+                PaymentDate = DateTime.Now,
+                MemberId = entity.MemberId,
+                UserId = entity.UserId
             };
 
             _paymentDal.Add(memberpayment);

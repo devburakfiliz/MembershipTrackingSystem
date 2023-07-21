@@ -58,6 +58,14 @@ namespace Core.Concrete.DataAccess.EntityFramework.Repositories
             }
         }
 
+        public TEntity GetById(Expression<Func<TEntity, bool>> filter)
+        {
+            using (TContext context = new TContext())
+            {
+                return context.Set<TEntity>().FirstOrDefault(filter);
+            }
+        }
+
         public void Update(TEntity entity)
         {
             using (TContext context = new TContext())
@@ -67,6 +75,19 @@ namespace Core.Concrete.DataAccess.EntityFramework.Repositories
                 context.SaveChanges();
 
             }
+        }
+
+        public List<TEntity> GetByCategoryId(Expression<Func<TEntity, bool>> filter = null)
+        {
+            using (TContext context = new TContext())
+            {
+                return context.Set<TEntity>().Where(filter).ToList();
+
+            }
+
+
+
+
         }
     }
 }

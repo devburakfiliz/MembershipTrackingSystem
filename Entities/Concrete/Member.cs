@@ -12,11 +12,13 @@ namespace Entities.Concrete
         public int MemberId { get; set; }
         public string FirstName { get; set; }  
         public string LastName { get; set; }
+        public string ImagePath { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public string? Phone { get; set; }
         public string? Adress { get; set; }
         public int MonthlyPaymentId { get; set; }
+        public int UserId { get; set; }
         public string? Description { get; set; }
         public Double Payment { get; set; }
         public string PaymentType { get; set; }

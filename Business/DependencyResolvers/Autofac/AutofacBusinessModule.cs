@@ -1,6 +1,7 @@
 ﻿using Autofac;
 using Business.Abstract;
 using Business.Concrete;
+using Core.Utilities.Helpers.FileHelper;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using System;
@@ -20,6 +21,10 @@ namespace Business.DependencyResolvers.Autofac
 
             builder.RegisterType<MounthlyPaymentManager>().As<IMounthlyPaymentService>().SingleInstance();
             builder.RegisterType<EfMountlyPaymentDal>().As<IMonthlyPaymentDal>().SingleInstance();
+
+            builder.RegisterType<FileHelperManager>().As<IFileHelper>().SingleInstance();
+
+            builder.RegisterType<ImageHelperManager>().As<IImagesHelper>().SingleInstance();
 
         }
     }

@@ -15,6 +15,9 @@ namespace Core.Abstract.DataAccess
         TEntity Add(TEntity entity);
         void Delete(TEntity entity);
         void Update(TEntity entity);
+        TEntity GetById(Expression<Func<TEntity, bool>> filter);
+        List<TEntity> GetByCategoryId(Expression<Func<TEntity, bool>> filter = null);
+
 
     }
 }

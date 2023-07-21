@@ -19,4 +19,7 @@ namespace Business.Abstract
         IDataResult<Member> GetById(int id);
 
     }
+
+
+
 }
